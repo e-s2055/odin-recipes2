@@ -7,3 +7,25 @@ body {
     color: darkolivegreen;
     
 }
+
+.link {
+    background-color: aquamarine;
+    width: 200px;
+    height: auto;
+    text-align: center;
+}
+
+.blueberry {
+    color: blue;
+    font-weight: bold;
+}
+
+.curry {
+    color: red;
+    font-style: italic;
+}
+
+.tomato {
+    color: red;
+    font-size: large; 
+}
